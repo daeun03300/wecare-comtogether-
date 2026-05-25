@@ -94,3 +94,13 @@ img{
     border-radius:50%;
     object-fit:cover;
 }
+
+.box p{
+    line-height:2;
+    font-size:18px;
+}
+
+#reviewText{
+    line-height:2;
+    font-size:18px;
+}
