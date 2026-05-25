@@ -69,3 +69,28 @@ img{
     height:auto;
     margin-top:50px;
 }
+
+
+.mainPhoto{
+    width:300px;
+    height:auto;
+    border-radius:20px;
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+
+.profile{
+    background:#fff0f5;
+    width:250px;
+    margin:20px auto;
+    padding:20px;
+    border-radius:20px;
+}
+
+.profile img{
+    width:150px;
+    height:150px;
+    border-radius:50%;
+    object-fit:cover;
+}
